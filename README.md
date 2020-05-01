@@ -4,7 +4,7 @@ Esta es una aplicación de Node.js para mostrar en consola y generar archivos de
 Para instalar:
 
 ---
-npe install
+npm install
 ---
 Para la ayuda:
 ---
